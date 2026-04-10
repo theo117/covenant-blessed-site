@@ -8,7 +8,7 @@ const HeroSection = () => {
       <div className="absolute inset-0">
         <img
           src={coupleHero}
-          alt="Daniel and Grace"
+          alt="Mr T and Miss M"
           className="w-full h-full object-cover"
           width={1920}
           height={1080}
@@ -32,7 +32,7 @@ const HeroSection = () => {
         </p>
 
         <h1 className="font-script text-6xl md:text-8xl lg:text-9xl text-ivory mb-4 animate-fade-up delay-200 leading-tight">
-          Daniel & Grace
+          Mr T & Miss M
         </h1>
 
         <div className="section-divider !bg-champagne/60 mb-6 animate-fade-up delay-300" />
@@ -48,7 +48,7 @@ const HeroSection = () => {
           October 18, 2026
         </p>
         <p className="text-champagne/80 font-serif text-sm md:text-base tracking-widest uppercase animate-fade-up delay-500">
-          Grace Chapel · Nashville, Tennessee
+          Rosebank Union Church · Johannesburg, Gauteng
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mt-10 animate-fade-up delay-600">

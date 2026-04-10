@@ -19,7 +19,7 @@ const OurStorySection = () => {
           <div className={`transition-all duration-1000 delay-200 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-8'}`}>
             <img
               src={gallery1}
-              alt="Daniel and Grace walking together"
+              alt="Mr T and Miss M walking together"
               className="rounded-sm shadow-lg gold-glow w-full object-cover aspect-[4/5]"
               loading="lazy"
               width={800}
@@ -31,8 +31,8 @@ const OurStorySection = () => {
             <div className="space-y-4 font-body text-muted-foreground leading-relaxed">
               <p>
                 Our story began not by chance, but by divine appointment. We first met at a church retreat
-                in the spring of 2022, where a shared love for worship and a quiet conversation over coffee
-                became the first chapter of our love story.
+                in Pretoria in the autumn of 2022, where a shared love for worship and a quiet conversation
+                over rooibos became the first chapter of our love story.
               </p>
               <p>
                 From the very beginning, God was at the center of our relationship. Through seasons of
@@ -40,8 +40,8 @@ const OurStorySection = () => {
                 Christ's love for His church — patient, kind, and unfailing.
               </p>
               <p>
-                Daniel proposed on a golden autumn evening at the same chapel where they first prayed
-                together, with the words: <em className="text-foreground">"I have found the one whom my soul loves."</em>
+                Mr T proposed on a golden sunset evening at the Cradle of Humankind, with the words:
+                <em className="text-foreground">"I have found the one whom my soul loves."</em>
               </p>
             </div>
 
